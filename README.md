@@ -13,13 +13,13 @@ Facebook: https://www.facebook.com/lucasdeFCardoso/
 |---- /VC/d_idade/detectar_idade.ipynb
 <br>
 |---- /VC/d_idade/face_detector:
-<br>---- |---- deploy.prototxt  res10_300x300_ssd_iter_140000.caffemodel
+<br>---- |---- [deploy.prototxt]  [res10_300x300_ssd_iter_140000.caffemodel]
 <br>
 |---- /VC/d_idade/idade_detector:
-<br>---- |---- age_deploy.prototxt  age_net.caffemodel
+<br>---- |---- [age_deploy.prototxt]  [age_net.caffemodel]
 <br>
 |---- /VC/d_idade/imagens:
-<br>---- |---- lucas.jpg
+<br>---- |---- [lucas.jpg]
 
 Obs: /VC  não existe então crie-o
 <br>Baixe os arquivos e faça o upload para o seu Google Driver seguindo as estrturas de diretórios.
