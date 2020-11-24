@@ -21,5 +21,5 @@ Facebook: https://www.facebook.com/lucasdeFCardoso/
 |---- /VC/d_idade/imagens:
 <br>---- |---- [lucas.jpg]
 
-Obs: /VC  não existe então crie-o
+Obs: /VC  não existe então crie-o em seu driver.
 <br>Baixe os arquivos e faça o upload para o seu Google Driver seguindo as estrturas de diretórios.
