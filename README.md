@@ -4,8 +4,9 @@ Previsão de idade usando keras e tensorflow.
 <br>Apenas para fins de aprendizado.
 
 # Seção de Downloads
-Google Driver: https://drive.google.com/drive/folders/1wS_Nw8aGFGlwEAr0i5Ujku5R5SvxwnV2?usp=sharing
-
+Projeto no Google Driver: https://drive.google.com/drive/folders/1wS_Nw8aGFGlwEAr0i5Ujku5R5SvxwnV2?usp=sharing
+Ou baixe o projeto completo em zip aqui:
+https://drive.google.com/file/d/1sLfTuuLCBc-_NHMchwK_Sgm3GaUKkgBE/view?usp=sharing
 # Rede Social
 Facebook: https://www.facebook.com/lucasdeFCardoso/
 
@@ -23,3 +24,4 @@ Facebook: https://www.facebook.com/lucasdeFCardoso/
 
 Obs: /VC  não existe então crie-o em seu driver.
 <br>Baixe os arquivos e faça o upload para o seu Google Driver seguindo as estrturas de diretórios.
+
